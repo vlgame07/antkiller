@@ -1,7 +1,5 @@
 {
     "url": "https://t.me/ant_killer_bot",
     "name": "Ant Killer",
-    "iconUrl": "https://mygame.com/icon.png",
-    "termsOfUseUrl": "https://mygame.com/terms",
-    "privacyPolicyUrl": "https://mygame.com/privacy"
+    "iconUrl": "https://raw.githubusercontent.com/vlgame07/antkiller/main/favicon.ico"
 }
